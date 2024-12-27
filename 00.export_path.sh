@@ -1,0 +1,1 @@
+conda activate genomescope2_v2.0.1_241227
